@@ -1,0 +1,204 @@
+Uri: http://dk-info.biz/
+File Name: C:\Downloaded Web Sites\dk-info.biz\index.htm
+Content Type: text/html
+
+Uri: http://dk-info.biz/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: http://dk-info.biz/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://dk-info.biz/assets/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://dk-info.biz/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://dk-info.biz/assets/css/style.css
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\css\style.css
+Content Type: text/css
+
+Uri: http://dk-info.biz/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dk-info.biz/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dk-info.biz/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://dk-info.biz/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://dk-info.biz/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://dk-info.biz/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: http://dk-info.biz/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dk-info.biz/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dk-info.biz/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://dk-info.biz/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://dk-info.biz/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://dk-info.biz/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: http://dk-info.biz/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dk-info.biz/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dk-info.biz/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://dk-info.biz/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: http://dk-info.biz/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://dk-info.biz/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\fonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: http://dk-info.biz/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\img\logo.png
+Content Type: image/png
+
+Uri: http://dk-info.biz/assets/img/main-bg.jpg
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\img\main-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://dk-info.biz/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/assets/js/contact-form-script.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\contact-form-script.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/assets/js/form-validator.min.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\form-validator.min.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/assets/js/jquery.ajaxchimp.min.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\jquery.ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/assets/js/main.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\main.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/assets/js/particles.min.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\particles.min.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\dk-info.biz\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://dk-info.biz/index.html
+File Name: C:\Downloaded Web Sites\dk-info.biz\index.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap&subset=latin-ext
+File Name: C:\Downloaded Web Sites\dk-info.biz\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap
+File Name: C:\Downloaded Web Sites\dk-info.biz\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/kaushanscript/v18/vm8vdRfvXFLG3OLnsO15WYS5DG72wNc.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\kaushanscript\v18\vm8vdRfvXFLG3OLnsO15WYS5DG72wNc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\dk-info.biz\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
